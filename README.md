@@ -9,4 +9,4 @@ Repository for the big red car
 
 [Click here for the big red car]
 
-![here is an image of the big red car]
+[here is an image of the big red car]
