@@ -3,7 +3,7 @@ Repository for the big red car
 
 It travels here and travels far.
 
-<h1>Smaller heading</h1>
+**bold text**
 
 <b> This is text in bold </b>
 
