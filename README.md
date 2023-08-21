@@ -1,7 +1,7 @@
 # wiggles5
 Repository for the big red car
 
-#Smaller heading
+<h1>Smaller heading</h1>
 
 ** This is text in bold **
 
