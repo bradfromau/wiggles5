@@ -5,10 +5,10 @@ It travels here and travels far.
 
 <h1>Smaller heading</h1>
 
-** This is text in bold **
+<b> This is text in bold </b>
 
-* This is text in italics *
+<i>This is text in italics </i>
 
-[Click here for the big red car]
+![Click here for the big red car]
 
 [here is an image of the big red car]
